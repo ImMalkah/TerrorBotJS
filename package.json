@@ -1,0 +1,22 @@
+{
+  "name": "terrorbot",
+  "version": "1.0.0",
+  "description": "Multi-purpose Discord bot for Terror Squad Discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImMalkah/TerrorBotJS.git"
+  },
+  "author": "malkah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImMalkah/TerrorBotJS/issues"
+  },
+  "homepage": "https://github.com/ImMalkah/TerrorBotJS#readme",
+  "devDependencies": {
+    "eslint": "^9.2.0"
+  }
+}
